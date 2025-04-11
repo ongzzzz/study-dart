@@ -21,4 +21,4 @@ Flutter 를 사용해 추후엔 토이 프로젝트를 만들어 보며 같이 �
 
 ## 🌱 참여 인원
 - **김연지** : [@ongzzzz](https://github.com/ongzzzz)
-- **정혜미** :
+- **정혜미** : [@ham](https://github.com/jhm010234)
